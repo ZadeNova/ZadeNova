@@ -13,3 +13,4 @@ Hopefully i find the strength to do some projects lmao
 
 https://www.hackerrank.com/ZadeNova?hr_r=1
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova)](https://github.com/ZadeNova/github-readme-stats)

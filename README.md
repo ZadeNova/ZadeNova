@@ -15,6 +15,7 @@
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
 - 🚀 Weird side projects :)
 - ⚡ Nerd
+  <p>Still attending college year 2 semester 2. 1 more year to go before graduation.</p>
 </div>
 <br />
 <br />

@@ -8,7 +8,7 @@
 <hr />
 
 <h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
-<img src="Assets/JeanneAlter.gif" align="right" height="250" width="225"/>
+<img src="Assets/JeanneAlter.gif" align="right" height="240" width="200"/>
   
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently taking my diploma in Infocomm and security from college. 
@@ -54,11 +54,11 @@
 <hr />
 </div>
 <div>
- <img src="Assets/Chahaein.gif" align="right" height="250"/>
+ <img src="Assets/Chahaein.gif" align="right" height="280"/>
 <h3 align="left">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
 <p>
   <img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
-  
+  <a href="https://www.linkedin.com/in/zadenova/"><img alt="LinkedIn" height="32" width="32" src="Assets/linkedin.svg"></a>
  </p>
 
 

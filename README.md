@@ -7,8 +7,8 @@
 <h3 align="center">★ A novice programmer ★</h3>
 <hr />
 <br />
-<h4 align="center">🚀About me:</h4>
-
+<h4 align="center">🚀彡 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 彡🚀</h4>
+<img src="Assets/JeanneAlter.gif" align="right"/>
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).

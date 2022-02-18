@@ -15,7 +15,10 @@
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
 - 🚀 Weird side projects :)
+- ⚡ Nerd
 </div>
+<br />
+<br />
 <hr />
 <div>
 <h3 align="left">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>

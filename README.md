@@ -15,7 +15,8 @@
 
 <h3 align="left">Contact me</h3>
 ![Discord](Assets/discord.svg)
-
+![My Image](Assets/discord.svg)
+<img src="Assets/discord.svg" alt="Alt text" title="Optional title">
 <h3 align="left">Miscellaneous</h3>
 
 

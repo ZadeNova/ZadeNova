@@ -5,6 +5,7 @@
 
 
 <h3 align="center">★ A novice programmer ★</h3>
+<div>
 <hr />
 <br />
 <h4 align="center">🚀彡 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 彡🚀</h4>
@@ -13,7 +14,7 @@
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
 - 🚀 Weird side projects :)
-
+</div>
 <hr />
 
 <h3 align="left">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>

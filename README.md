@@ -57,12 +57,12 @@
  <img src="Assets/Chahaein.gif" align="right" height="280"/>
 <h3 align="left">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
 <p>
-  <img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
-  <a href="https://www.linkedin.com/in/zadenova/"><img alt="LinkedIn" height="32" width="32" src="Assets/linkedin.svg"></a>
+  <img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg">
+  <a href="https://www.linkedin.com/in/zadenova/"><img alt="LinkedIn" title="Click to go to my linkedinpage" height="32" width="32" src="Assets/linkedin.svg"></a>
  </p>
 
 
 <h3 align="left">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>
 <a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
 </div>
-
+<h2 align="Center">◦•●◉ 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐! ◉●•◦</h2>

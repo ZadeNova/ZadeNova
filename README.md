@@ -6,15 +6,14 @@
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
 - 🚀 Lots of weird side projects :)
-- 📫 How to reach me:
-- Discord: 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
--  
+
 
 <h3 align="left">Languages</h3>
 
 
 <h3 align="left">Contact me</h3>
-
+![Discord](Assets/discord.svg)
+Discord: 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
 
 <h3 align="left">Miscellaneous</h3>
 

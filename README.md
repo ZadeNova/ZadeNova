@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm ZadeNova</h1>
-<h3 align="center">A novice programmer</h3>
+<h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
+<div align="center">
+<img src="https://www.pinterest.com/pin/656258976962317007/" />
+</div>
+
+
+<h3 align="center">★ A novice programmer ★</h3>
 <hr />
 <br />
 <h4 align="center">🚀About me:</h4>

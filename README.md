@@ -12,11 +12,11 @@
 
 
 <h3 align="left">Contact me</h3>
-<img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg">
-Discord: 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
+<img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
+
 
 <h3 align="left">Miscellaneous</h3>
-
+<a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
 
 Also GME to the moon!
 Hopefully i find the strength to do some projects lmao

@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm ZadeNova</h1>
+<h3 align="center">A novice programmer</h3>
+
 - 👋 Hi, I’m @ZadeNova
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently learning Python,C# 

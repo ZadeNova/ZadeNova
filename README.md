@@ -9,7 +9,7 @@
 <hr />
 <br />
 <h4 align="center">🚀彡 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 彡🚀</h4>
-<img src="Assets/JeanneAlter.gif" align="right" height="250" width="300"/>
+<img src="Assets/JeanneAlter.gif" align="right" height="250" width="250"/>
   
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently taking my diploma in Infocomm and security from college. 
@@ -17,6 +17,7 @@
 - 🚀 Weird side projects :)
 - ⚡ Nerd
 </div>
+<br />
 <br />
 <br />
 <br />

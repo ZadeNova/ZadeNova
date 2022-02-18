@@ -65,4 +65,8 @@
 <h3 align="left">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>
 <a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
 </div>
+<br />
+<br />
+<br />
 <h2 align="Center">◦•●◉ 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐! ◉●•◦</h2>
+

@@ -14,7 +14,7 @@
 
 
 <h3 align="left">Contact me</h3>
-![Discord](assets/Discord.svg)
+![Discord](Assets/discord.svg)
 
 <h3 align="left">Miscellaneous</h3>
 

@@ -1,15 +1,15 @@
 <h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
 <div align="center">
-<img src="Assets/JinWoo.gif"  height="400"/>
+<img src="Assets/JinWoo.gif"  height="370"/>
 </div>
 
 
 <h3 align="center">★ A novice programmer ★</h3>
 <div>
 <hr />
-<br />
-<h4 align="center">🚀彡 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 彡🚀</h4>
-<img src="Assets/JeanneAlter.gif" align="right" height="250" width="250"/>
+
+<h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
+<img src="Assets/JeanneAlter.gif" align="right" height="250" width="225"/>
   
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently taking my diploma in Infocomm and security from college. 

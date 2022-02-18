@@ -11,7 +11,12 @@
 -  
 
 <h3 align="left">Languages</h3>
----
+
+
+<h3 align="left">Contact me</h3>
+![Discord](assets/Discord.svg)
+
+<h3 align="left">Miscellaneous</h3>
 
 
 Also GME to the moon!

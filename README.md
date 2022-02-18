@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ZadeNova</h1>
 <h3 align="center">A novice programmer</h3>
 
-- 👋 Hi, I’m @ZadeNova
+
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
@@ -9,6 +9,9 @@
 - 📫 How to reach me:
 - Discord: 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
 -  
+
+<h3 align="left">Languages</h3>
+
 
 
 Also GME to the moon!

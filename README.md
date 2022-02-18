@@ -59,17 +59,12 @@
 <hr />
 </div>
 
-
-<h3 align="left">Contact me</h3>
+<details>
+  <summary>How to contact me</summary>
 <p><img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272</p>
-
+</details>
 
 <h3 align="left">Miscellaneous</h3>
 <a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
-
-Also GME to the moon!
-Hopefully i find the strength to do some projects lmao
-
-https://www.hackerrank.com/ZadeNova?hr_r=1
 
 

@@ -9,7 +9,8 @@
 <hr />
 <br />
 <h4 align="center">🚀彡 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 彡🚀</h4>
-<img src="Assets/JeanneAlter.gif" align="right"/>
+<img src="Assets/JeanneAlter.gif" align="right" height="250"/>
+  
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).

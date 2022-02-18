@@ -14,8 +14,7 @@
 
 
 <h3 align="left">Contact me</h3>
-![Discord](https://raw.githubusercontent.com/ZadeNova/ZadeNova/main/Assets/discord.svg?token=GHSAT0AAAAAABQ65T435NJ6LB6DTZO6ZI4CYQPQP5A)
-![My Image](Assets/discord.svg)
+
 
 <h3 align="left">Miscellaneous</h3>
 

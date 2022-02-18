@@ -1,6 +1,6 @@
 <h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
 <div align="center">
-<img src="Assets/JinWoo.gif" />
+<img src="Assets/JinWoo.gif"  height="400"/>
 </div>
 
 

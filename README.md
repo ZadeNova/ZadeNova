@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm ZadeNova</h1>
 <h3 align="center">A novice programmer</h3>
-
+<hr />
+<br />
+<h4 align="center">🚀About me:</h4>
 
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently learning Python,C# 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
-- 🚀 Lots of weird side projects :)
+- 🚀 Weird side projects :)
+
+<hr />
 
 <h3 align="left">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>
 <h4 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h4>
@@ -14,7 +18,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
 
 </p>
 <br />
@@ -36,7 +40,13 @@
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
 <br />
+
+
+
+
 <hr />
+
+
 
 <h3 align="left">Contact me</h3>
 <p><img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272</p>

@@ -12,11 +12,12 @@
 <img src="Assets/JeanneAlter.gif" align="right" height="250"/>
   
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
-- 🌱 I’m currently learning Python,C# 
+- 🌱 I’m currently taking my diploma in Infocomm and security from college. 
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
 - 🚀 Weird side projects :)
 - ⚡ Nerd
 </div>
+<br />
 <br />
 <br />
 <hr />

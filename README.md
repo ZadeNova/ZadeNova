@@ -1,8 +1,7 @@
 <h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
 <div align="center">
-<img src="Assets/JinWoo.gif"  height="370"/>
+<img src="Assets/JinWoo.gif"  height="350"/>
 </div>
-
 
 <h3 align="center">★ A novice programmer ★</h3>
 <div>
@@ -37,34 +36,30 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
+
 <h4 align="left">𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</h4>
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" / >
 </p>
 
-<br />
 <h4 align="left">𝚃𝚘𝚘𝚕𝚜</h4>
 <p>
  <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" />
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
-<br />
-
-
 
 
 <hr />
 </div>
-
-<details>
-  <summary>How to contact me</summary>
+<div>
+ <img src="Assets/Chahaein.gif" height="400"/>
+<h3 align="left">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
 <p><img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272</p>
-</details>
 
-<h3 align="left">Miscellaneous</h3>
+
+<h3 align="left">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>
 <a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
-
+</div>
 

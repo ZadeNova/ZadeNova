@@ -54,9 +54,12 @@
 <hr />
 </div>
 <div>
- <img src="Assets/Chahaein.gif" align="right" height="400"/>
+ <img src="Assets/Chahaein.gif" align="right" height="250"/>
 <h3 align="left">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
-<p><img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272</p>
+<p>
+  <img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg"> 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272
+  
+ </p>
 
 
 <h3 align="left">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>

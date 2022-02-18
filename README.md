@@ -1,6 +1,6 @@
 <h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
 <div align="center">
-<img src="https://www.pinterest.com/pin/656258976962317007/" />
+<img src="https://pin.it/5temzXB" />
 </div>
 
 

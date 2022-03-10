@@ -71,8 +71,9 @@
 <a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" align="center" height="36" width="36" src="Assets/steam.svg"></a>
 <a href="https://www.hackerrank.com/zadenova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zadenova" height="36" width="36" /></a>
 <br />
-<img alt="codewars" src="https://www.codewars.com/users/ZadeLuna/badges/small">
+<img align="center" alt="codewars" src="https://www.codewars.com/users/ZadeLuna/badges/small">
 </div>
+<br />
 <br />
 <br />
 <br />

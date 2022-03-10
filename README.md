@@ -9,15 +9,15 @@
 
 <h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
 <img src="Assets/JeanneAlter.gif" align="right" height="240" width="200"/>
-<img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" />
+<img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="left"/>
 <br />
-<ul>
-<li>- 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/<li/>
-<li>- 🌱 I’m currently taking my diploma in Infocomm and security from college. <li/>
-<li>- 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).<li/>
-<li>- 🚀 Weird side projects :)<li/>
-<li>- ⚡ Nerd<li/>
-<ul/>
+
+- 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
+- 🌱 I’m currently taking my diploma in Infocomm and security from college. 
+- 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
+- 🚀 Weird side projects :)
+- ⚡ Nerd
+
   <p>Still attending college year 2 semester 2. 1 more year to go before graduation.</p>
 </div>
 <br />

@@ -68,8 +68,8 @@
 
 
 <h3 align="left">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>
-<a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" height="32" width="32" src="Assets/steam.svg"></a>
-<a href="https://www.hackerrank.com/zadenova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zadenova" height="30" width="40" /></a>
+<a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" align="center" height="36" width="36" src="Assets/steam.svg"></a>
+<a href="https://www.hackerrank.com/zadenova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zadenova" height="36" width="36" /></a>
 <br />
 <img alt="codewars" src="https://www.codewars.com/users/ZadeLuna/badges/small">
 </div>

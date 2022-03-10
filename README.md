@@ -9,7 +9,7 @@
 
 <h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
 <img src="Assets/JeanneAlter.gif" align="right" height="240" width="200"/>
-![Visitor Count](https://profile-counter.glitch.me/ZadeNova/count.svg)
+<p>![Visitor Count](https://profile-counter.glitch.me/ZadeNova/count.svg)</p>
 <br />
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
 - 🌱 I’m currently taking my diploma in Infocomm and security from college. 

@@ -62,7 +62,7 @@
  <img src="Assets/Igris.gif" align="right" height="280"/>
 <h3 align="left">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
 <p>
-  <img alt="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" title="Discord - 𝙈𝙖𝙡𝙚𝙫𝙤𝙡𝙚𝙣𝙘𝙚#8272" height="32" width="32" src="Assets/discord.svg">
+  
   <a href="https://www.linkedin.com/in/zadenova/"><img alt="LinkedIn" title="Click to go to my linkedinpage" height="32" width="32" src="Assets/linkedin.svg"></a>
  </p>
 

@@ -18,7 +18,7 @@
 - 🚀 Weird side projects :)
 - ⚡ Nerd
 
-  <p>Still attending college year 2 semester 2. 1 more year to go before graduation.</p>
+  <p>Still attending college year 3 semester 1. 1 more year to go before graduation.</p>
 </div>
 <br />
 <br />

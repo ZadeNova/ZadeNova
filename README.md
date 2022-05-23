@@ -27,7 +27,7 @@
 <hr />
 <div>
 <h3 align="left">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>
- <p align="center">
+ <p align="right">
 <img src="Assets/Chahaein.gif" align="right" height="470" width="320"/>
   </p>
 <h4 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h4>

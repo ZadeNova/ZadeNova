@@ -47,7 +47,7 @@
 
 <br />
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt" />
 
 
 <h4 align="left">𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</h4>

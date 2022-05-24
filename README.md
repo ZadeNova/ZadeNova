@@ -36,11 +36,14 @@
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+<p align="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 </p>
-  </div>
+</div>
 <img src="Assets/Chahaein.gif" align="right" height="470" width="300"/>
- </div>
+</div>
 
 <br />
 

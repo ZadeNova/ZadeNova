@@ -8,7 +8,7 @@
 <hr />
 
 <h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
-<img src="Assets/JeanneAlter.gif" align="right" height="240" width="200"/>
+<img src="Assets/JeanneAlter.gif" align="center" height="240" width="200"/>
 <img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="left"/>
 <br />
 
@@ -28,7 +28,7 @@
 <div>
 <h3 align="left">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>
 
-<img src="Assets/Chahaein.gif" align="center" height="470" width="300"/>
+<img src="Assets/Chahaein.gif" align="right" height="470" width="300"/>
 
 <h4 align="left">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h4>
 <p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 

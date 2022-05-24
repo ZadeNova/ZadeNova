@@ -74,7 +74,7 @@
 <hr />
 
 <div align="center">
- <img src="Assets/Igris.gif" align="center" height="280"/>
+ <img src="Assets/solo-leveling.gif" align="center" height="280"/>
 <h3 align="center">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
 <p align="center">
   

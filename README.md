@@ -41,16 +41,7 @@
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt" />
 </p>
-</div>
-<img src="Assets/Chahaein.gif" align="right" height="470" width="300"/>
-</div>
-
-<br />
-
-
-
-
-<h4 align="left">𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</h4>
+ <h4 align="left">𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</h4>
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" / >
@@ -62,6 +53,16 @@
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
 </p>
+
+</div>
+<img src="Assets/Chahaein.gif" align="right" height="470" width="300"/>
+</div>
+
+<br />
+
+
+
+
 
 
 <hr />

@@ -39,7 +39,7 @@
 
 </p>
 <p align="left">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt" />
 </p>
 </div>
 <img src="Assets/Chahaein.gif" align="right" height="470" width="300"/>
@@ -47,7 +47,7 @@
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt" />
+
 
 
 <h4 align="left">𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜</h4>

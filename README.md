@@ -18,7 +18,7 @@
 - 🚀 Weird side projects :)
 - ⚡ Nerd
 
-  <p>Still attending college year 3 semester 1. 1 more year to go before graduation.</p>
+  <p>Currently under 6 months internship. Six months+ to go before graduation.</p>
 </div>
 <br />
 <br />

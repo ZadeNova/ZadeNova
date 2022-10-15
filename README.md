@@ -43,7 +43,6 @@
 </p>
  
 <p align="center">
- 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&langs_count=8&theme=cobalt" />
 </p>
   
@@ -51,7 +50,7 @@
 <div align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" / >
-![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+<img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
 </div>
 <h4 align="center">𝚃𝚘𝚘𝚕𝚜</h4>
 <p align="center">

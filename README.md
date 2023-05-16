@@ -13,12 +13,12 @@
 <br />
 
 - 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
-- 🌱 I’m currently taking my diploma in Infocomm and security from college. 
-- 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality).
+- 🌱 Wouldn't mind working on a project together =)
+- 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality). If you have an interesting project , feel free to reach out!
 - 🚀 Weird side projects :)
-- ⚡ Nerd
+- ⚡ Nerd/Weirdo
 
-  <p>Currently under 6 months internship. Six months+ to go before graduation.</p>
+  <p>Currently Waiting for National Service.</p>
 </div>
 <br />
 <br />

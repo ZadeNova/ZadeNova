@@ -12,13 +12,13 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="center"/></div>
 <br />
 
-- 👀 I’m interested in lots of things but sadly i am too lazy to do anything :/
+- 👀 Currently doing the Odin Project
 - 🌱 Wouldn't mind working on a project together =)
 - 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality). If you have an interesting project , feel free to reach out!
 - 🚀 Weird side projects :)
-- ⚡ Nerd/Weirdo
+- ⚡ 
 
-  <p>Currently Waiting for National Service.</p>
+  <p>1 year , 12 days to ORD.</p>
 </div>
 <br />
 <br />

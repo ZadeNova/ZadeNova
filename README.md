@@ -12,7 +12,7 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="center"/></div>
 <br />
 
-Applied Fintech student at SIT passionate about building solutions at the intersection of finance and technology.
+Y1 Applied Fintech student at SIT passionate about building solutions at the intersection of finance and technology.
 
 - ⚡ Currently seeking internship opportunities for 2026.
 - 🌱 Always eager to connect and collaborate on any interesting projects. Feel free to reach out!

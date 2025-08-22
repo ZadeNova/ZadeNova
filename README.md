@@ -12,13 +12,13 @@
 <div align="center"><img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="center"/></div>
 <br />
 
-- 👀 Currently doing the Odin Project
+- 👀 Currently pursuing a degree in Applied Computing with specialization in Fintech in SIT.
 - 🌱 Wouldn't mind working on a project together =)
-- 💞️ I’m looking to collaborate on making a project that interests me.(AI,blockchain,Datascience,Virtual/Augmented reality). If you have an interesting project , feel free to reach out!
+- 💞️ I’m looking to collaborate on making a project that interests me.(Fintech/Blockchain). If you have an interesting project , feel free to reach out!
 - 🚀 Weird side projects :)
 - ⚡ 
 
-  <p>1 year , 12 days to ORD.</p>
+
 </div>
 <br />
 <br />

@@ -9,7 +9,7 @@
 
 <h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=zadenova&label=Profile%20views&color=0e75b6&style=flat-square" alt="zadenova" align="center"/></div>
+
 <br />
 
 Y1 Applied Fintech student at SIT passionate about building solutions at the intersection of finance and technology.

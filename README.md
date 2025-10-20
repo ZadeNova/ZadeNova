@@ -14,10 +14,15 @@
 
 Y1 Applied Fintech student at SIT passionate about building solutions at the intersection of finance and technology.
 
-- ⚡ Currently seeking internship opportunities for 2026.
+- ⚡ Currently seeking internship opportunities from May 2026 to August 2026.
 - 🌱 Always eager to connect and collaborate on any interesting projects. Feel free to reach out!
 - 🚀 Weird side projects :)
   
+
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 <br />
@@ -28,9 +33,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 <div>
  
 <h3 align="center">⚒️𝚃𝚘𝚘𝚕𝚜/𝚂𝚔𝚒𝚕𝚕𝚜</h3>
-<div align="center">
-<img src="Assets/Chahaein.gif" align="center" height="400" width="300"/>
-</div>
+
   
 <h4 align="center">𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜</h4>
 <p align="center">
@@ -73,24 +76,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 <hr />
 
-<div align="center">
- <img src="Assets/solo-leveling.gif" align="center" height="280"/>
-<h3 align="center">𝙷𝚘𝚠 𝚝𝚘 𝚌𝚘𝚗𝚝𝚊𝚌𝚝 𝚖𝚎</h3>
-<p align="center">
-  
-  <a href="https://www.linkedin.com/in/zadenova/"><img alt="LinkedIn" title="Click to go to my linkedinpage" height="32" width="32" src="Assets/linkedin.svg"></a>
- </p>
 
 
-<h3 align="center">𝙼𝚒𝚜𝚌𝚎𝚕𝚕𝚊𝚗𝚎𝚘𝚞𝚜</h3>
-<a href="https://steamcommunity.com/profiles/76561198334933644/"><img alt="Steam" align="center" height="36" width="36" src="Assets/steam.svg"></a>
-<a href="https://www.hackerrank.com/zadenova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="zadenova" height="36" width="36" /></a>
-<br />
-<img align="center" alt="codewars" src="https://www.codewars.com/users/ZadeLuna/badges/small">
-</div>
-<br />
-<br />
-<br />
-<br />
 <h2 align="Center">◦•●◉ 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐! ◉●•◦</h2>
 

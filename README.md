@@ -30,7 +30,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 > 📦 57.3 kB Used in GitHub's Storage 
  > 
-> 🏆 76 Contributions in the Year 2025
+> 🏆 75 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,7 +94,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ZadeNova/ZadeNova/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 18:32:20 UTC
+ Last Updated on 20/10/2025 18:53:50 UTC
 <!--END_SECTION:waka-->
 
 </div>

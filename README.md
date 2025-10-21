@@ -22,15 +22,13 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 57.3 kB Used in GitHub's Storage 
  > 
-> 🏆 75 Contributions in the Year 2025
+> 🏆 76 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,45 +36,6 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-🌆 Daytime                615 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌃 Evening                839 commits         ██████████░░░░░░░░░░░░░░░   39.33 % 
-🌙 Night                  431 commits         █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   287 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Tuesday                  374 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.53 % 
-Wednesday                283 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Thursday                 270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-Friday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Saturday                 483 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Sunday                   235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -94,7 +53,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/ZadeNova/ZadeNova/main/assets/bar_graph.png)
 
 
- Last Updated on 20/10/2025 18:53:50 UTC
+ Last Updated on 21/10/2025 18:52:41 UTC
 <!--END_SECTION:waka-->
 
 </div>

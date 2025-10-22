@@ -22,38 +22,29 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 57.3 kB Used in GitHub's Storage 
- > 
-> 🏆 76 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 18 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
-**I Mostly Code in Python** 
+**I'm a Night 🦉** 
 
 ```text
-Python                   7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Astro                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+🌞 Morning                248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌆 Daytime                619 commits         ███████░░░░░░░░░░░░░░░░░░   28.97 % 
+🌃 Evening                839 commits         ██████████░░░░░░░░░░░░░░░   39.26 % 
+🌙 Night                  431 commits         █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
 ```
 
 
+📊 **This Week I Spent My Time On** 
 
-**Timeline**
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
 
-![Lines of Code chart](https://raw.githubusercontent.com/ZadeNova/ZadeNova/main/assets/bar_graph.png)
 
-
- Last Updated on 21/10/2025 18:52:41 UTC
+ Last Updated on 22/10/2025 08:58:01 UTC
 <!--END_SECTION:waka-->
 
 </div>

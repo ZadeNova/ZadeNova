@@ -22,7 +22,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2035%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-92-blue)
 
@@ -46,7 +46,7 @@ CMake                    1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/10/2025 18:52:20 UTC
+ Last Updated on 24/10/2025 18:50:10 UTC
 <!--END_SECTION:waka-->
 
 </div>

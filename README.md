@@ -40,12 +40,11 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-C                        2 mins              █████████████████████░░░░   85.84 % 
-Text                     0 secs              ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/12/2025 18:57:40 UTC
+ Last Updated on 05/12/2025 18:52:41 UTC
 <!--END_SECTION:waka-->
 
 </div>

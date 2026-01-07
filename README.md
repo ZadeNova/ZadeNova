@@ -22,7 +22,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -40,11 +40,12 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Python                   27 mins             █████████████████████████   99.34 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 ```
 
 
- Last Updated on 06/01/2026 18:55:22 UTC
+ Last Updated on 07/01/2026 18:58:34 UTC
 <!--END_SECTION:waka-->
 
 </div>

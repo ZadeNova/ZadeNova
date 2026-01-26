@@ -22,9 +22,9 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-97%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-98%20hrs%2039%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -40,15 +40,15 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 11 mins       ██████████████░░░░░░░░░░░   54.20 % 
-YAML                     50 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Bash                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+Python                   2 hrs 30 mins       ███████████░░░░░░░░░░░░░░   43.15 % 
+YAML                     57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JavaScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+TypeScript               24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 
 
- Last Updated on 25/01/2026 18:54:44 UTC
+ Last Updated on 26/01/2026 19:02:57 UTC
 <!--END_SECTION:waka-->
 
 </div>

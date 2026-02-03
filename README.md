@@ -22,10 +22,33 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2013%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+🌆 Daytime                640 commits         ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+🌃 Evening                858 commits         ██████████░░░░░░░░░░░░░░░   38.49 % 
+🌙 Night                  465 commits         █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
+```
 
 
- Last Updated on 01/02/2026 19:02:54 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   10 hrs 2 mins       ███████████████████████░░   92.35 % 
+HTML                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+CSV                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+```
+
+
+ Last Updated on 03/02/2026 19:28:42 UTC
 <!--END_SECTION:waka-->
 
 </div>

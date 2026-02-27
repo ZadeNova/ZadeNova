@@ -22,7 +22,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -48,7 +48,7 @@ Git                      2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 26/02/2026 19:27:32 UTC
+ Last Updated on 27/02/2026 19:12:08 UTC
 <!--END_SECTION:waka-->
 
 </div>

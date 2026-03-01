@@ -24,7 +24,7 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -48,7 +48,7 @@ Git                      2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 28/02/2026 18:57:51 UTC
+ Last Updated on 01/03/2026 18:59:39 UTC
 <!--END_SECTION:waka-->
 
 </div>

@@ -29,10 +29,10 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                270 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-🌆 Daytime                657 commits         ███████░░░░░░░░░░░░░░░░░░   28.78 % 
-🌃 Evening                869 commits         ██████████░░░░░░░░░░░░░░░   38.06 % 
-🌙 Night                  487 commits         █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+🌆 Daytime                657 commits         ███████░░░░░░░░░░░░░░░░░░   28.73 % 
+🌃 Evening                869 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌙 Night                  488 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
 ```
 
 
@@ -40,15 +40,11 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-JSON                     11 mins             ███████████░░░░░░░░░░░░░░   43.59 % 
-Python                   6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-PHP                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
-CSV                      4 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.94 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
+JSON                     1 min               █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/03/2026 19:23:23 UTC
+ Last Updated on 05/03/2026 19:47:53 UTC
 <!--END_SECTION:waka-->
 
 </div>

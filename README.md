@@ -22,17 +22,17 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-🌆 Daytime                660 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-🌃 Evening                870 commits         █████████░░░░░░░░░░░░░░░░   37.96 % 
-🌙 Night                  489 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
+🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+🌆 Daytime                663 commits         ███████░░░░░░░░░░░░░░░░░░   28.80 % 
+🌃 Evening                870 commits         █████████░░░░░░░░░░░░░░░░   37.79 % 
+🌙 Night                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
 ```
 
 
@@ -40,15 +40,15 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-PHP                      1 hr 8 mins         ████████████░░░░░░░░░░░░░   46.47 % 
-JavaScript               54 mins             █████████░░░░░░░░░░░░░░░░   36.98 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-YAML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+PHP                      1 hr 36 mins        ████████████░░░░░░░░░░░░░   47.01 % 
+JavaScript               1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.75 % 
+YAML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
- Last Updated on 09/03/2026 19:25:03 UTC
+ Last Updated on 10/03/2026 19:24:17 UTC
 <!--END_SECTION:waka-->
 
 </div>

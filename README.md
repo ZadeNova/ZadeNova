@@ -40,15 +40,15 @@ Y1 Applied Fintech student at SIT passionate about building solutions at the int
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs               ██████████░░░░░░░░░░░░░░░   40.38 % 
-PHP                      4 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.76 % 
-SQL                      1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
-Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+JavaScript               4 hrs 54 mins       ███████████░░░░░░░░░░░░░░   42.18 % 
+PHP                      4 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.97 % 
+SQL                      1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+YAML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 
 
- Last Updated on 04/04/2026 19:10:25 UTC
+ Last Updated on 05/04/2026 19:12:31 UTC
 <!--END_SECTION:waka-->
 
 </div>

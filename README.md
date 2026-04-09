@@ -1,66 +1,45 @@
-<h1 align="center">╰☆☆ Hi 👋, I'm 𝓩𝓪𝓭𝓮𝓝𝓸𝓿𝓪 ☆☆╮</h1>
-<div align="center">
-<img src="Assets/JinWoo.gif"  height="380" width="350"/>
-</div>
+# Erfan Mohan
 
-<h3 align="center">★ A novice programmer ★</h3>
-<div>
-<hr />
+Backend and infrastructure engineer. I build production-grade APIs, data pipelines, and the deployment tooling around them.
 
-<h4 align="center">🚀彡 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 彡🚀</h4>
+---
 
+### Stack
 
-<br />
+**Languages**
+![Python](https://img.shields.io/badge/Python-EAF3DE?style=flat&logo=python&logoColor=27500A)
+![TypeScript](https://img.shields.io/badge/TypeScript-E6F1FB?style=flat&logo=typescript&logoColor=185FA5)
+![SQL](https://img.shields.io/badge/SQL-EEEDFE?style=flat&logo=postgresql&logoColor=3C3489)
 
-Y1 Applied Fintech student at SIT passionate about building solutions at the intersection of finance and technology.
+**Backend**
+![FastAPI](https://img.shields.io/badge/FastAPI-EAF3DE?style=flat&logo=fastapi&logoColor=27500A)
+![Node.js](https://img.shields.io/badge/Node.js-EAF3DE?style=flat&logo=node.js&logoColor=27500A)
 
-- ⚡ Currently seeking internship opportunities from May 2026 to August 2026.
-- 🌱 Always eager to connect and collaborate on any interesting projects. Feel free to reach out!
-- 🚀 Weird side projects :)
-  
-
+**Data**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EEEDFE?style=flat&logo=postgresql&logoColor=3C3489)
 
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%201%20min-blue?style=flat)
+**Infra**
+![Docker](https://img.shields.io/badge/Docker-E6F1FB?style=flat&logo=docker&logoColor=185FA5)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-EEEDFE?style=flat&logo=githubactions&logoColor=3C3489)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+---
 
-**I'm a Night 🦉** 
+### LeetCode
 
-```text
-🌞 Morning                273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-🌆 Daytime                710 commits         ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-🌃 Evening                911 commits         █████████░░░░░░░░░░░░░░░░   37.21 % 
-🌙 Night                  554 commits         ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-```
+[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ZadeNova&theme=dark)](https://leetcode.com/u/ZadeNova/)
 
+---
 
-📊 **This Week I Spent My Time On** 
+### GitHub Activity
 
-```text
-💬 Programming Languages: 
-JavaScript               2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   32.46 % 
-PHP                      1 hr 34 mins        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-SQL                      1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   19.78 % 
-TypeScript               1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Python                   12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-```
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZadeNova&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&layout=compact&theme=dark&hide_border=true&langs_count=5" />
+</a>
 
+---
 
- Last Updated on 08/04/2026 19:49:35 UTC
-<!--END_SECTION:waka-->
-
-</div>
-<br />
-<br />
-<br />
-<br />
-<hr />
-<div>
- 
-
-
-
-<h2 align="Center">◦•●◉ 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚛𝚎𝚊𝚍𝚒𝚗𝚐! ◉●•◦</h2>
-
+[erfan-portfolio-website.vercel.app](https://erfan-portfolio-website.vercel.app) &nbsp;·&nbsp; [linkedin.com/in/erfanmohan-zade](https://linkedin.com/in/erfanmohan-zade/)

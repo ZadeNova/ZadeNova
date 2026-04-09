@@ -27,19 +27,13 @@ Backend and infrastructure engineer. I build production-grade APIs, data pipelin
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcode-stats-card.vercel.app/api?username=ZadeNova&theme=dark)](https://leetcode.com/u/ZadeNova/)
-
+[![LeetCode Stats](https://leetcard.jacoblincool.workers.dev/?username=ZadeNova&theme=dark&border=0)](https://leetcode.com/u/ZadeNova/)
 ---
 
 ### GitHub Activity
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ZadeNova&show_icons=true&theme=dark&hide_border=true&count_private=true&hide=stars" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZadeNova&layout=compact&theme=dark&hide_border=true&langs_count=5" />
-</a>
-
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZadeNova&theme=dark)](https://github.com/ZadeNova)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZadeNova&theme=dark)](https://github.com/ZadeNova)
 ---
 
-[erfan-portfolio-website.vercel.app](https://erfan-portfolio-website.vercel.app) &nbsp;·&nbsp; [linkedin.com/in/erfanmohan-zade](https://linkedin.com/in/erfanmohan-zade/)
+[erfan-portfolio-website.vercel.app](https://erfan-portfolio-website.vercel.app) &nbsp;·&nbsp;

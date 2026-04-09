@@ -27,7 +27,8 @@ Backend and infrastructure engineer. I build production-grade APIs, data pipelin
 
 ### LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblincool.workers.dev/?username=ZadeNova&theme=dark&border=0)](https://leetcode.com/u/ZadeNova/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZadeNova?theme=catppuccinMocha&font=Basic&ext=heatmap)
+
 ---
 
 ### GitHub Activity

@@ -34,7 +34,7 @@ Building backend systems and infrastructure · SIT Applied Computing Y1· Availa
 
 ### LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ZadeNova?theme=catppuccinMocha&font=Basic&ext=heatmap)
+<!--![LeetCode Stats](https://leetcard.jacoblin.cool/ZadeNova?theme=catppuccinMocha&font=Basic&ext=heatmap) -->
 
 ---
 

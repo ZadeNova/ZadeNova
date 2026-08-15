@@ -39,7 +39,7 @@ Building backend systems and infrastructure · SIT Applied Computing Y1· Availa
 ---
 
 ### GitHub Activity
-
-[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZadeNova&theme=dark)](https://github.com/ZadeNova)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZadeNova&theme=dark)](https://github.com/ZadeNova)
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZadeNova&theme=nord_dark)
+[![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZadeNova&theme=nord_dark)](https://github.com/ZadeNova)
+[![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZadeNova&theme=nord_dark)](https://github.com/ZadeNova)
 ---

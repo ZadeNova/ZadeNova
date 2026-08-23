@@ -1,8 +1,10 @@
 # Zade Nova
 
-Interested in backend engineering, infrastructure, and DevOps. I am interested in building things that run in production — APIs, pipelines, and CI/CD systems.
+Backend engineering, infrastructure, DevOps.
 
-Building backend systems and infrastructure · SIT Applied Computing Y1· Available May 2027 - May 2028
+No natural talent, just an unreasonable tolerance for failure.
+
+SIT Applied Computing Fintech Y2
 
 ---
 
